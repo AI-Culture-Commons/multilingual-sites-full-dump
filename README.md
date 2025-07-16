@@ -1,4 +1,6 @@
 # multilingual-sites-full-dump
+[![DOI](https://zenodo.org/badge/1021100223.svg)](https://doi.org/10.5281/zenodo.16001641)
+
 Frozen snapshot of two static sites devoted to **philosophy, culture, literature & AI technology**, distributed in **12 languages** under CC-BY-4.0.
 
 ## 🌐 Websites
